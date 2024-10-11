@@ -6,7 +6,7 @@ permalink: /publication/science_2022
 excerpt: 'This paper assesses the relative performance of plantations and native forests in delivering ecosystem services and carbon storage by synthesizing data from the world’s major forest biomes.'
 date: 2022-05-17
 venue: 'Science'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://weiyi-wang1.github.io/files/science_2022.pdf'
 citation: 'Fangyuan Hua et al., The biodiversity and ecosystem service contributions and trade-offs of forest restoration approaches. Science376,839-844(2022). DOI:10.1126/science.abl4649'
 ---
 
