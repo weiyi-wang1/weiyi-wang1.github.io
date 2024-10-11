@@ -1,6 +1,6 @@
 ---
 title: "Ecological filtering shapes the impacts of agricultural deforestation on biodiversity"
-#collection: publications
+collection: publications
 #category: manuscripts
 permalink: /publication/Ecological filtering shapes the impacts of agricultural deforestation on biodiversity
 excerpt: 'This paper investigates how deforestation caused by agricultural expansion impacts bird communities. Also examines the role of ecological filtering in determining birds' response to habitat loss.'
