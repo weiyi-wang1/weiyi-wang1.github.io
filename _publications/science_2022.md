@@ -2,7 +2,7 @@
 title: "The biodiversity and ecosystem service contributions and trade-offs of forest restoration approaches"
 #collection: publications
 #category: conferences
-permalink: /publication/The biodiversity and ecosystem service contributions and trade-offs of forest restoration approaches
+permalink: /publication/science_2022
 excerpt: 'This paper assesses the relative performance of plantations and native forests in delivering ecosystem services and carbon storage by synthesizing data from the world’s major forest biomes.'
 date: 2022-05-17
 venue: 'Science'
