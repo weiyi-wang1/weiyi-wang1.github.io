@@ -16,7 +16,7 @@ redirect_from:
 Education
 ======
 * Ph.D in University of Tasmania, Australia, 2022-present
-* Mres in University of Glasgow, United Kingdom, 2018-2019
+* MRes in University of Glasgow, United Kingdom, 2018-2019
 * B.S. in Northwest Agriculture and Forestry University, China, 2014-2018
 
 Work experience
