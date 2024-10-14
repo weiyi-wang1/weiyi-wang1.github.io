@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student at the University of Tasmania, focusing on safeguarding bird biodiversity in forest landscapes. My research investigates how birds respond to various forestry practices, aiming to find an ideal balance between timber production and conservation goals. 
+I am a second-year PhD student at the University of Tasmania, working on safeguarding bird biodiversity in forest landscapes. My research investigates how birds respond to various forestry practices, aiming to find an ideal balance between timber production and conservation goals. 
 
 As a birdwatcher, my research journey has taken me from China to the UK, where I completed my Master’s degree and gained valuable field-based experience. Working as a research assistant in China after my Master’s allowed me to hone my skills in bird surveys across diverse ecosystems and build meaningful connections with fellow researchers. This PhD project feels like the perfect opportunity to combine my interests, background, and network into a cohesive exploration of forestry ecology, with the goal of improving conservation outcomes in managed forests.
 
