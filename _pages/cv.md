@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 
 Education
 ======
@@ -43,18 +44,4 @@ Grants
 * Rufford Small Grants for Nature Conservation (￡6000) | Rufford Foundation (UK), 2020
   Providing critical scientific knowledge to inform ecological restoration in and around the Giant Panda Nation Park, a case study in Wanglang, China
  
-#Talks
-#======
-#  <ul>{% for post in site.talks reversed %}
-#    {% include archive-single-talk-cv.html  %}
-#  {% endfor %}</ul>
-  
-#Teaching
-#======
-#  <ul>{% for post in site.teaching reversed %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams
+
