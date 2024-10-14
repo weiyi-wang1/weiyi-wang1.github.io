@@ -11,42 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in University of Tasmania, Australia, 2022-present
+* Mres in University of Glasgow, United Kingdom, 2018-2019
+* B.S. in Northwest Agriculture and Forestry University, China, 2014-2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Research Assistant - ConservationEE Lab, Peking University, China, 2019-2023
+* Project manager, 2020-2023
+  * Resarch on globally divergent impacts of agriculture-induced deforestation on avian communities and their underlying factors.
+  * Research on providing critical scientific knowledge to inform ecological restoration in and around Wanglang National Reserve, China.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Field assistant, 2020-2022
+  * Research on bird community response to diffrent land use types at Hengduan Mountain range, Sichuan, China.
+  * Wood Snipe breeding ecology study, Sichuan, China.
+    
+* Team memeber, 2021
+  * Research on global ecosystem survey and biodiversity trade-off under different forest restoration approach.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Grants
+======
+* Holsworth Wildlife Resarch Endowment ($17,500) | Ecological Society of Australia (Australia),2023
+  Conservation of forest birds: safeguarding bird biodiversity in forest landscape
+  
+* Rufford Small Grants for Nature Conservation (￡6000) | Rufford Foundation (UK), 2020
+  Providing critical scientific knowledge to inform ecological restoration in and around the Giant Panda Nation Park, a case study in Wanglang, China
+ 
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
