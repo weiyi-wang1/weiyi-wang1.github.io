@@ -19,5 +19,5 @@ My research combines field-based bird surveys, ecological modeling, and data ana
 
 🌳 Land use change and biodiversity – At a landscape scale, I explore the effects of land use changes on species diversity and the mechanisms driving species responses to habitat alteration. 
 
-🦤 Biodiversity conservation in human-modified landscapes – I seek to develop strategies that enhance biodiversity conservation within managed and human-altered landscapes, striiving to balance conservation goals with sustainable resource use. 
+🦤 Biodiversity conservation in human-modified landscapes – I seek to develop strategies that enhance biodiversity conservation within managed and human-altered landscapes, striving to balance conservation goals with sustainable resource use. 
 
