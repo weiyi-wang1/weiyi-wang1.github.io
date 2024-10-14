@@ -35,10 +35,12 @@ Research Assistant - ConservationEE Lab, Peking University, China, 2019-2023
 
 Grants
 ======
-* Holsworth Wildlife Resarch Endowment ($17,500) | Ecological Society of Australia (Australia),2023
+* Holsworth Wildlife Resarch Endowment ($17,500) | Ecological Society of Australia (Australia), 2023
+  
   Conservation of forest birds: safeguarding bird biodiversity in forest landscape
   
 * Rufford Small Grants for Nature Conservation (￡6000) | Rufford Foundation (UK), 2020
+  
   Providing critical scientific knowledge to inform ecological restoration in and around the Giant Panda Nation Park, a case study in Wanglang, China
 
 Publications
