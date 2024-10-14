@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="files/CV_WangWeiyi_202402.pdf" target="_blank" rel="noopener noreferrer">Download my CV</a>
+<a href="../files/CV_WangWeiyi_202402.pdf" target="_blank" rel="noopener noreferrer">Download my CV</a>
 
-You can download my CV here: [Download my CV](files/CV_WangWeiyi_202402.pdf).
+You can download my CV here: [Download my CV](../files/CV_WangWeiyi_202402.pdf).
 
 
 Education
