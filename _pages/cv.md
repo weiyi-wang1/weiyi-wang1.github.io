@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+#{% include base_path %}
 
-<a href="../files/CV_WangWeiyi_202402.pdf" target="_blank" rel="noopener noreferrer">View my full CV here</a>
+#<a href="../files/CV_WangWeiyi_202402.pdf" target="_blank" rel="noopener noreferrer">View my full CV here</a>
 
 
 
