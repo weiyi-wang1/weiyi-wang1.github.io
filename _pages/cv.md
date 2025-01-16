@@ -13,7 +13,7 @@ redirect_from:
 <!-- remove the <!--  with the last three characters to active the cv download link-->
 
 
-Education
+####Education
 ======
 * Ph.D in University of Tasmania, Australia, 2022-present
 * MRes in University of Glasgow, United Kingdom, 2018-2019
