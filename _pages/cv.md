@@ -14,7 +14,7 @@ redirect_from:
 
 
 Education
-<span style="font-size: 5px; font-weight: normal;">Education</span>
+
 ======
 * Ph.D in University of Tasmania, Australia, 2022-present
 * MRes in University of Glasgow, United Kingdom, 2018-2019
