@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Weiyi's Homepage"
+title                    : "Weiyi / Forest Conservation / Homepage"
 title_separator          : "-"
 name                     : &name "Weiyi Wang(王玮亦)"
 description              : &description "personal description"
